@@ -1,0 +1,10 @@
+.storage_room-rack {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    width: 150px;
+    border-radius: 8px;
+    background-color: #34373E;
+  }

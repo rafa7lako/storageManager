@@ -1,0 +1,11 @@
+.storage_room-box {
+    height: 25%;
+    width: 95%;
+    border-radius: 4px;
+    background-color: #B1EE81;
+    transition: transform .3s;
+  }
+
+.storage_room-box:hover {
+    transform: scale(1.1);
+}
